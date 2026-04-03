@@ -1,4 +1,5 @@
-<h1 align="left">𝗵𝗲𝘆.<br>cs undergrad<br>learning • building</h1>
+
+<h1 align="left">hey.<br>cs undergrad<br>learning • building</h1>
 
 ###
 
@@ -14,6 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
@@ -38,7 +41,12 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://i.imgflip.com/aiwsyn.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=olanihundaniel0-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olanihundaniel0-star&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
 </div>
 
 ###
+
+<div align="left">
+  <img height="200" src="https://i.imgflip.com/aiwsyn.gif" />
+</div>
