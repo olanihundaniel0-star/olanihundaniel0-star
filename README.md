@@ -41,6 +41,3 @@
 
 <br><br>
 
-<div align="left">
-  <img height="200" src="https://i.imgflip.com/aiwsyn.gif" alt="typing cat gif" />
-</div>
