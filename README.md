@@ -13,7 +13,6 @@
 ---
 
 ### **Tech Stack**
-
 <div align="center">
   <table>
     <tr>
@@ -26,12 +25,24 @@
         <br><sub><b>TypeScript</b></sub>
       </td>
       <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" alt="React" />
-        <br><sub><b>React 19</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" />
+        <br><sub><b>Python</b></sub>
       </td>
       <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" alt="Tailwind CSS" />
-        <br><sub><b>Tailwind</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" alt="C" />
+        <br><sub><b>C</b></sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" alt="HTML" />
+        <br><sub><b>HTML</b></sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" alt="CSS" />
+        <br><sub><b>CSS</b></sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" alt="React" />
+        <br><sub><b>React</b></sub>
       </td>
     </tr>
     <tr>
@@ -40,16 +51,24 @@
         <br><sub><b>NestJS</b></sub>
       </td>
       <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" />
-        <br><sub><b>PostgreSQL</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" alt="Tailwind" />
+        <br><sub><b>Tailwind</b></sub>
       </td>
       <td align="center" width="80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" />
         <br><sub><b>Git</b></sub>
       </td>
       <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" />
-        <br><sub><b>Python</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub" />
+        <br><sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50" alt="Vercel" />
+        <br><sub><b>Vercel</b></sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" alt="Supabase" />
+        <br><sub><b>Supabase</b></sub>
       </td>
     </tr>
   </table>
@@ -58,7 +77,6 @@
 ---
 
 ###  **Connect**
-
 <div align="center">
   <a href="https://www.instagram.com/daniell_jpg?igsh=YWxidTQ4NDF5OTVp" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -77,7 +95,6 @@
 ---
 
 ###  **Profile Stats**
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olanihundaniel0-star&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olanihundaniel0-star&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
