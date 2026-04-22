@@ -1,6 +1,7 @@
 <div align="center">
   <h1 style="font-size: 3em; font-weight: 900; margin: 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; letter-spacing: -1px;">
-    hey.
+    hello world 
+    こんにちは世界
   </h1>
   <p style="font-size: 1.2em; color: #666; margin: 0.5em 0 0 0; font-weight: 500;">
     cs undergrad @ unilag
