@@ -106,3 +106,7 @@
 <div align="center">
   <sub>built with curiosity & caffeine ☕</sub>
 </div>
+
+<a style="text-decoration: none;" href="https://github.com/olanihundaniel0-star">
+  <img style="border-radius:10px" src="https://hits.sh/github.com/olanihundaniel0-star/hits.svg?color=FFFFFF&labelColor=0D1117&style=for-the-badge&logo=stackblitz&label=this%20many%20people%20viewed%20this%20page"/>
+</a>
