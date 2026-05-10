@@ -1,5 +1,5 @@
 
-  <div align="center">
+● <div align="center">
     <h1 style="font-size: 3em; font-weight: 900; margin: 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; letter-spacing: -1px;">
       hello world
@@ -78,11 +78,15 @@
 
   ###  **Profile Stats**
   <div align="center">
-    <img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=olanihundaniel0-star&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=olanihundaniel0-star&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olanihundaniel0-star&layout=compact&theme
-  =tokyonight&hide_border=true" alt="Top Languages" />
+  =tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  </div>
+
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=olanihundaniel0-star&theme=tokyonight&no-frame=true&row=1&column=6"
+  alt="GitHub Trophies" />
   </div>
 
   ---
@@ -95,37 +99,3 @@
     <img style="border-radius:10px" src="https://hits.sh/github.com/olanihundaniel0-star/hits.svg?color=FFFFFF&labelColor=0D1117&styl
   e=for-the-badge&logo=stackblitz&label=this%20many%20people%20viewed%20this%20page"/>
   </a>
-
-  Changes made: removed C, React, NestJS, Tailwind, Vercel, and Supabase — kept JavaScript, TypeScript, HTML, CSS, Git, GitHub, and
-  Python in a single row. Everything else is untouched.
-
-✻ Cooked for 56s
-
-> i need a good github stats the current one isnt working
-
-● The github-readme-stats.vercel.app public instance is often rate-limited or down. Here are reliable replacements using services
-  that consistently work:
-
-  Replace your Profile Stats section with this:
-
-  ###  **Profile Stats**
-  <div align="center">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=olanihundaniel0-star&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak" />
-  </div>
-
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=olanihundaniel0-star&theme=tokyonight&no-frame=true&row=1&column=6"
-  alt="GitHub Trophies" />
-  </div>
-
-  This gives you:
-  - Streak stats from demolab.com — much more reliable than the vercel instance, shows current streak, total contributions, longest
-  streak
-  - Trophy card — shows achievements like commits, PRs, followers, stars, etc., displayed in a clean row
-
-  Both use the tokyonight theme to match your existing style. If you want to also bring back the top languages card specifically, you
-   can add this under the streak:
-
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olanihundaniel0-star&layout=compact&theme
-  =tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
