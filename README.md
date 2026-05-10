@@ -1,5 +1,5 @@
 
-● <div align="center">
+ <div align="center">
     <h1 style="font-size: 3em; font-weight: 900; margin: 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; letter-spacing: -1px;">
       hello world
@@ -82,11 +82,6 @@
   alt="GitHub Streak" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olanihundaniel0-star&layout=compact&theme
   =tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-  </div>
-
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=olanihundaniel0-star&theme=tokyonight&no-frame=true&row=1&column=6"
-  alt="GitHub Trophies" />
   </div>
 
   ---
