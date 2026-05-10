@@ -80,8 +80,6 @@
   <div align="center">
     <img height="180em" src="https://streak-stats.demolab.com/?user=olanihundaniel0-star&theme=tokyonight&hide_border=true"
   alt="GitHub Streak" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olanihundaniel0-star&layout=compact&theme
-  =tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
   </div>
 
   ---
