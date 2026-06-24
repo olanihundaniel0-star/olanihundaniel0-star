@@ -15,7 +15,7 @@
 
 Also into jazz.
 
-**Stack:** Python · JavaScript · Git · GitHub
+**Core Stack:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" style="vertical-align:middle;"/> Python · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16" style="vertical-align:middle;"/> JavaScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16" style="vertical-align:middle;"/> Git · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="16" style="vertical-align:middle;"/> GitHub
 
 ---
 
@@ -23,6 +23,4 @@ Also into jazz.
 
 ---
 
-<sub>built with curiosity and caffeine</sub>
-&nbsp;&nbsp;
 [![views](https://hits.sh/github.com/olanihundaniel0-star/hits.svg?color=FFFFFF&labelColor=0D1117&style=flat-square&label=views)](https://github.com/olanihundaniel0-star)
