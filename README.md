@@ -15,7 +15,7 @@
 
 Also into jazz.
 
-**Core Stack:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" style="vertical-align:middle;"/> Python · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16" style="vertical-align:middle;"/> JavaScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16" style="vertical-align:middle;"/> Git · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="16" style="vertical-align:middle;"/> GitHub
+**Core Stack:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" style="vertical-align:middle;"/> Python · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16" style="vertical-align:middle;"/> JavaScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="16" style="vertical-align:middle;"/> TypeScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16" style="vertical-align:middle;"/> Java
 
 ---
 
